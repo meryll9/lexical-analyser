@@ -1,0 +1,15 @@
+COMP
+CoMp
++=
+||
+AND
+NOT
+!
+!!
+=
+==
+COIL
+LOOP
+IF
+if
+Else
